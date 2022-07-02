@@ -11,3 +11,4 @@ Project functionality:
 3. Customer authentication
 4. Able to send mail to realtor about the listing
 5. Customer can check the list they inquire
+6. Pagination
